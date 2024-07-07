@@ -1,11 +1,11 @@
 # Note-Taker
+
 Note Taking Application
 
 ## Description
 
 This is a simple Note Taking Application.
 
-  
   ## Table of Contents 📖
   
   [Installation](#installation)
@@ -16,13 +16,9 @@ This is a simple Note Taking Application.
 
   [Screenshot](#Screenshot) 
 
-  [Screenrecording](#ScreenRecording)
-
   [License](#license)
 
   [Built-With](#Built-With)
-
-  [Tests](#tests) 
 
   [Credits](#credits)
 
@@ -38,17 +34,10 @@ https://github.com/Jarvisismy-copilot/Note-Taker
 
 https://note-taker-giaz.onrender.com
 
-add
 
 ## Screenshots
 
 ![image](https://github.com/Jarvisismy-copilot/Note-Taker/assets/160912526/dc5af073-834f-49d9-a9ba-5eafb310bed2)
-
-add
-
-## Screenrecording
-
-add
 
 ______________________________________________________________________________
 
@@ -63,17 +52,10 @@ ______________________________________________________________________________
 - HTML
 - CSS  
 
-## Tests 
-
-To run tests, run 
-
-"add command"
-
-in the terminal.
-
 ## Credits 
 
-https://github.com/Jarvisismy-copilot
+I recieved Starter Code for this project.
+[Author](https://github.com/Jarvisismy-copilot)
 
  ## Questions 
   

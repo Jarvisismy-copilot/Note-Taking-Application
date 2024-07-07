@@ -1,7 +1,7 @@
 ﻿const router=require("express") .Router()
 
-const{readFromFile, readAndAppend} =require("../helpers/fsUtils")
-const uuid=require ("../helpers/uuid")
+const{readFromFile, readAndAppend} =require("../../helpers/fsUtils")
+const uuid=require ("../../helpers/uuid")
 
 router.get("/", (req,res)=>{
 readFromFile("./db/db.json") .then(data=>res.json(JSON.parse(data)))
