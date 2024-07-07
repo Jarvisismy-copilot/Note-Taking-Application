@@ -30,8 +30,7 @@ This is a simple Note Taking Application.
   
   ## Usage 
 
-add
-
+Type a task and click "Add Task" to add it to the list. Click "Delete" to remove a task, or "Clear" to empty the input field.
 
 ## Links
 
