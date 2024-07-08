@@ -7,8 +7,6 @@ Note Taking Application
 This is a simple Note Taking Application.
 
   ## Table of Contents 📖
-  
-  [Installation](#installation)
 
   [Usage](#usage)
 
@@ -32,7 +30,7 @@ Type a task and click "Add Task" to add it to the list. Click "Delete" to remove
 
 ## Links
 
-git@github.com:Jarvisismy-copilot/Note-Taking-Application.git
+[Note-Taking-Application Repository](https://github.com/Jarvisismy-copilot/Note-Taking-Application)
 
 https://note-taker-giaz.onrender.com
 
@@ -42,7 +40,7 @@ https://note-taker-giaz.onrender.com
 ![image](https://github.com/Jarvisismy-copilot/Note-Taker/assets/160912526/dc5af073-834f-49d9-a9ba-5eafb310bed2)
 
 
-## Screenrecording
+## Screen_Recording
 
 https://drive.google.com/file/d/1f7vdLqjcUTPkaBUNRKtTFqqtaKlJa27K/view?usp=sharing
 
