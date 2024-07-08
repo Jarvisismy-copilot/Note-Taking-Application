@@ -40,9 +40,10 @@ https://note-taker-giaz.onrender.com
 ![image](https://github.com/Jarvisismy-copilot/Note-Taker/assets/160912526/dc5af073-834f-49d9-a9ba-5eafb310bed2)
 
 
-## Screen_Recording
+## Screen Recording
 
-https://drive.google.com/file/d/1f7vdLqjcUTPkaBUNRKtTFqqtaKlJa27K/view?usp=sharing
+[Screen_Recording](https://drive.google.com/file/d/1f7vdLqjcUTPkaBUNRKtTFqqtaKlJa27K/view?usp=sharing)
+
 
 ______________________________________________________________________________
 
